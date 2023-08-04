@@ -56,6 +56,6 @@ The Breakout game code is provided under the MIT License.
 The Breakout game is inspired by the classic arcade game of the same name. The code implementation is based on tutorials and resources available from the Pygame community.
 
 ## Contact
-For any questions or inquiries, you can contact the author at [redouanechafi01@example.com].
+For any questions or inquiries, you can contact the author at [redouanechafi01@gmail.com].
 
 Enjoy the game!
