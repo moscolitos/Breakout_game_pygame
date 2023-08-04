@@ -1,5 +1,7 @@
 # Breakout Game
-Breakout is a classic arcade game where the player controls a paddle to bounce a ball and break bricks at the top of the screen. The objective is to clear all the bricks by bouncing the ball off the paddle without letting the ball fall off the bottom of the screen. Each time the ball hits a brick, the player earns points. The game continues until all the bricks are cleared, or the player runs out of lives.
+Breakout is a classic arcade game where the player controls a paddle to bounce a ball and break bricks at the top of the screen. 
+
+The objective is to clear all the bricks by bouncing the ball off the paddle without letting the ball fall off the bottom of the screen. Each time the ball hits a brick, the player earns points. The game continues until all the bricks are cleared, or the player runs out of lives.
 
 ## How to Play
 Install Python and Pygame
