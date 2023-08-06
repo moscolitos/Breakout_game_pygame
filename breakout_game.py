@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  1 21:39:23 2023
-
-@author: Mosco
-"""
-
 import pygame
 import sys
 import random
